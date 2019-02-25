@@ -1,7 +1,6 @@
-from .mod1 import bar
+from packages.mod1.main import bar
 
-
-def foo()
+def foo():
     """
     Calls mod1.bar
     """
